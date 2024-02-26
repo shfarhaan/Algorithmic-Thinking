@@ -5,5 +5,4 @@ my_string = "That lemon pie is not for sale."
 
 str = my_string[::-1]
 
-
 print(str)
