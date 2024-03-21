@@ -1,1 +1,1 @@
-This repository is for practicing Algorithic Thinking LinkedIn Course
+This repository is for practicing Algorithic Thinking LinkedIn Course.
